@@ -1,4 +1,5 @@
 resource "local_file" "flenamecreation" {
-  content  = "this is content"
+  content  = "this is new content"
   filename = "abc.txt"
 }
+
